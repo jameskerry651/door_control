@@ -8,3 +8,4 @@
 * 祺索12V锂电池组  【淘宝】https://m.tb.cn/h.fs4l1IP?tk=YnRr2P02r1o
 * 「ESP32-CAM开发板  【淘宝】https://m.tb.cn/h.ft37vEV?tk=utTP2P0gMlu
 * 热熔胶枪手工家用热融胶抢高粘强力胶棒热熔胶棒7-11mm胶水热熔枪 【淘宝】https://m.tb.cn/h.fsUR65Q?tk=k0Q42PYKNeZ
+* 面包板 【淘宝】https://m.tb.cn/h.ft4vCNj?tk=X1XO2PXQuHU
